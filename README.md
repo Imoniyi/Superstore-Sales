@@ -12,7 +12,6 @@ I used Tableau to visualize superstore sales data.
 ![image](https://github.com/Imoniyi/Superstore-Sales/assets/151396523/a16f3a21-9667-4d16-b73a-7b97047f9f11)
 
 ## Revenue Dashboard 
-![image](https://github.com/Imoniyi/Superstore-Sales/assets/151396523/881149ae-3537-47b5-9f31-c901ce7bae19)
 
 
 # Data findings 
